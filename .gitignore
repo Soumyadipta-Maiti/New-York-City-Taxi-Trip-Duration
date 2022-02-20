@@ -1,0 +1,7 @@
+# Ignore folder containing compiler codes
+.ipynb_checkpoints/*
+.ipynb_checkpoints
+.ipynb_checkpoints/NewYork_City_Taxi_Trip_Duration-checkpoint.ipynb
+
+# Ignore all text files
+*.txt
